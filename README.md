@@ -37,21 +37,6 @@ Ele faz o seguinte:
    ```
 6. O resultado será gerado em `out/out.txt`.
 
----
-
-## ⚙️ Estrutura de Pastas
-
-```
-JavaWorkingArquives/
-├─ src/
-│  └─ Files/
-│     ├ Program.java
-│     └ Product.java
-├─ resources/ (opcional, se usar caminhos relativos)
-│  └ products.txt
-├─ out/ (gerado pelo programa)
-└─ README.md
-```
 
 ---
 
